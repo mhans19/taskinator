@@ -286,7 +286,6 @@ var loadTasks = function () {
 
 pageContentEl.addEventListener("click", taskButtonHandler);
 
-
 formEl.addEventListener("submit", taskFormHandler);
 pageContentEl.addEventListener("change", taskStatusChangeHandler); 
 
